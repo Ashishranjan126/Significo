@@ -1,4 +1,4 @@
-S**ignificoClone**
+## SignificoClone
 
 Project Description
 This repository contains a complete clone of the "Significo" website, meticulously recreated from start to finish. This project showcases advanced animations and design elements to provide a visually stunning user experience. Built using modern web technologies, this clone highlights the following:
